@@ -1,3 +1,3 @@
-Oh my zsh
-Yazi
-Ghostty
+# Oh my zsh
+# Yazi
+# Ghostty
